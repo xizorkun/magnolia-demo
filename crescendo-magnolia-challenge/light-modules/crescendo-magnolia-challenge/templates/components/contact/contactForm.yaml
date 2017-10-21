@@ -1,0 +1,4 @@
+renderType: freemarker
+title: Contact Form
+modelClass: com.crescendocollective.emailform.EmailForm
+templateScript: /crescendo-magnolia-challenge/templates/components/contact/contactForm.ftl
